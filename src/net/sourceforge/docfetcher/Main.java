@@ -17,7 +17,7 @@ import net.sourceforge.docfetcher.util.SwtJarLoader;
 
 /**
  * @author Tran Nam Quang
- * test
+ * test by zjy
  */
 public final class Main {
 	
